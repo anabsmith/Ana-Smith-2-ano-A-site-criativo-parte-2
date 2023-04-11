@@ -7,11 +7,12 @@
 .link{
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
 }
 
 .cabana{
-width: 600px;
-height:600px;
+width: 200px;
+height:200px;
 }
 
 .cabanaamarela{
