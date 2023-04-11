@@ -1,10 +1,13 @@
-cabecalho{
+.cabecalho{
     width:auto ;
     display:flex ;
     flex-direction:row;
 
 }
-
+.link{
+    display: flex;
+    flex-direction: row;
+}
 
 .cabana{
 width: 600px;
